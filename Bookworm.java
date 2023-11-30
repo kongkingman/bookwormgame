@@ -47,8 +47,8 @@ public class Bookworm {
     
             /* TODO: 
             •	Create a simple enemy of the game with HP bar. (10%)
-            •	Insert input words from the user that will be used as the weapon -- Haggang dito muna yung game. (30% na to ng game.)
-            •	Random words will be generated in which the user should type the longest word they could find from it. (50%)
+            •	Random words will be generated in which the user should type the longest word they could find from it. (30% -- Hanggang dito muna)
+            •	Insert input words from the user that will be used as the weapon -- Haggang dito muna yung game. (50%)
             •	Enemy HP bar will be depleted depending on the word length (80%)
             •	The player will win if the enemy HP bar is depleted. (100%)
             */
